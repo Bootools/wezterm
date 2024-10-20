@@ -16,6 +16,7 @@ config.font_size = 16.0
 config.default_cursor_style = 'SteadyBar'
 config.cursor_thickness = '1.4pt'
 config.use_fancy_tab_bar = false
+config.integrated_title_button_style = "Windows"
 
 config.tab_bar_style = {
     window_close = wezterm.format {
