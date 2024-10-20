@@ -10,7 +10,7 @@ local MAXIMIZE_BUTTON = wezterm.nerdfonts.md_window_maximize
 local MINIMIZE_BUTTON = wezterm.nerdfonts.md_window_minimize
 
 -- This is where you actually apply your config choices
-config.color_scheme = 'Catppuccin Macchiato'
+config.color_scheme = 'rose-pine'
 config.font = wezterm.font 'FiraCode Nerd Font'
 config.font_size = 16.0
 config.default_cursor_style = 'SteadyBar'
