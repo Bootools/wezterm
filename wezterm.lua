@@ -39,7 +39,8 @@ config.tab_bar_style = {
 	}),
 }
 
-config.window_decorations = "INTEGRATED_BUTTONS | RESIZE"
+config.enable_tab_bar = false
+config.window_decorations = "RESIZE"
 
 -- and finally, return the configuration to wezterm
 return config
